@@ -1,6 +1,7 @@
 - Hi, I’m @MuhammedBila1
-- I’m interested in business start up
+- I’m interested in a business start up
 - I’m currently learning B.Com
+- Just mail muhammedbilal7555@gmail.com to contact
 
 
 
