@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @MuhammedBila1
-- 👀 I’m interested in business start up
-- 🌱 I’m currently learning B.Com
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- Hi, I’m @MuhammedBila1
+- I’m interested in business start up
+- I’m currently learning B.Com
+
+
 
 <!---
 MuhammedBila1/MuhammedBila1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
